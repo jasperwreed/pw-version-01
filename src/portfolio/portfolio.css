@@ -1,0 +1,30 @@
+body {
+  font-family: B612, sans-serif;
+  background-color: #F2EAC2;
+  color: black;
+}
+
+p, h1,h2, h3,h4 {
+  text-align: center;
+}
+
+.bg-img-intro {
+  background-image: url('../Images/IMG_0764.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.centerDiv {
+  margin: auto;
+  height: 100vh;
+}
+
+@font-face {
+  font-family: 'B612', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=B612&display=swap');
+}
+
+@font-face {
+  font-family: 'IBM Plex Serif', serif;
+  src: url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@100&display=swap')
+}
